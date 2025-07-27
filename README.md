@@ -28,11 +28,11 @@
 
 | 🔧 Core Skills                  | 💡 How I Add Value                          |
 |---------------------------------|---------------------------------------------|
-| **Power BI**                    | Data-driven project tracking & control      |
-| **Biosimilars / mRNA**          | Domain expertise + regulatory insight       |
-| **GMP Projects**                | 30+ GMP initiatives streamlined globally    |
-| **Scheduling & Budget**         | Accurate timelines, risk logs, earned value |
-| **Digital PM Tools**            | Smartsheet, JIRA, TrackWise, SharePoint     |
+| **Power BI**                    | Data-driven project control - visualizing KPIs to support timely decisions and drive delivery performance |
+| **Biosimilars / mRNA**          | Translating complex scientific workflows into regulatory-compliant, phase-aligned project plans |
+| **GMP Projects**                | 30+ global GMP initiatives : managing compliance, timelines and cross-functional teams to meet regulatory and client expectations |
+| **Scheduling & Budget**         | Aligning milestones with real-world constraints : using risk logs, gantt charts, and earned value metrics for precision planning and tracking |
+| **Digital PM Tools**            | Streamlining project execution with Smartsheet, JIRA and SharePoint—enabling real-time updates, document traceability, and stakeholder alignment across regulated environments |
 
 ---
 
