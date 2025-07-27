@@ -2,9 +2,15 @@
   <img src="./assets/headshot.jpg" alt="Praveena Headshot" width="150" style="border-radius:50%;"/>
 </p>
 
-<h2 align="center" style="color:#2E4053;">✨ Hello, I'm Praveena Pentakota — Project Manager in Calgary, Alberta ✨</h2>
+<h2 align="center" style="color:#2E4053;">👋 Hello, I’m Praveena Pentakota (PP) </h2>
 
-<h1 align="center" style="color:#1F618D;"> PMP® PM | Researcher | Biopharma & Healthcare | Problem Solver | AI Enthusiast |</h1>
+<h1 align="center" style="color:#1F618D;">
+  From Pipettes to Projects --> Blending Scientific Rigor with Strategic Delivery
+</h1>
+
+<p align="center">
+  <strong>PMP® Project Manager</strong> • Life Sciences • Problem Solver • AI Enthusiast • Power BI
+</p>
 
 ---
 
