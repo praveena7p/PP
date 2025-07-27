@@ -5,12 +5,14 @@
 <h2 align="center" style="color:#2E4053;">👋 Hello, I’m Praveena Pentakota (PP) </h2>
 
 <h1 align="center" style="color:#1F618D;">
-  From Pipettes to Projects --> Blending Scientific Rigor with Strategic Delivery
+  PMP® Project Manager</strong> • Life Sciences • Problem Solver • AI Enthusiast • Power BI
 </h1>
 
-<p align="center">
-  <strong>PMP® Project Manager</strong> • Life Sciences • Problem Solver • AI Enthusiast • Power BI
-</p>
+<h4 align="center">
+  <font color="blue">
+    <em>From Pipettes to Projects — Blending Scientific Rigor with Strategic Delivery</em>
+  </font>
+</h4>
 
 ---
 
