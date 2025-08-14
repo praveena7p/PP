@@ -62,11 +62,11 @@
   🧪 Featured Projects
 </h3>
 
-| Project                             | Description                                                      | Files                                     |
-|-------------------------------------|------------------------------------------------------------------|-------------------------------------------|
-| **Project controls Dashboard**      | Real-time EVM metrics (EV, SV%, CV%) in Power BI                 | [Upload Files](./projects/gmp-dashboard/) |
-| **R&D Prioritization Tool**         | AI-driven ranking via Lovable & Claude                           | [Upload Files](./projects/prioritization/) |
-| **Hospital Readmission Prediction** | DataRobot model to predict readmissions & enable proactive care  | [Upload Files](./projects/readmission/)     |
+| Project                             | Description                                                      |
+|-------------------------------------|------------------------------------------------------------------|
+| **Project controls Dashboard**      | Real-time EVM metrics (EV, SV%, CV%) in Power BI                 | 
+| **R&D Prioritization Tool**         | AI-driven ranking via Lovable & Claude                           | 
+| **Hospital Readmission Prediction** | DataRobot model to predict readmissions & enable proactive care  | 
 
 ---
 
