@@ -5,7 +5,7 @@
 <h2 align="center" style="color:#2E4053;">👋 Hello, I’m Praveena Pentakota (PP) </h2>
 
 <h1 align="center" style="color:#1F618D;">
-  PMP® Project Manager</strong> • Life Sciences • Problem Solver • AI Enthusiast • Power BI
+  PMP® Project Manager</strong> • Life Sciences Researcher • Power BI • AI Enthusiast 
 </h1>
 
 <h4 align="center">
