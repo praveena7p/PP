@@ -37,10 +37,10 @@
 | 🔧 Core Skills                  | 💡 How I Add Value                          |
 |---------------------------------|---------------------------------------------|
 | **Power BI**                    | Data-driven project control - visualizing KPIs to support timely decisions and drive delivery performance |
-| **Biosimilars / mRNA**          | Translating complex scientific workflows into regulatory-compliant, phase-aligned project plans |
-| **GMP Projects**                | 30+ global GMP initiatives : managing compliance, timelines and cross-functional teams to meet regulatory and client expectations |
+| **R&D and Lab ops**         | Delivered reliable results through lab techniques and method validation - while ensuring SOP compliance, sample traceability, and audit-ready documentation that supports regulatory submissions |
+| **GMP Projects**                | Navigated 30+ global GMP initiatives by balancing compliance, timelines, and client expectations to deliver audit-ready outcomes|
 | **Scheduling & Budget**         | Aligning milestones with real-world constraints : using risk logs, gantt charts, and earned value metrics for precision planning and tracking |
-| **Digital PM Tools**            | Streamlining project execution with Smartsheet, JIRA and SharePoint—enabling real-time updates, document traceability, and stakeholder alignment across regulated environments |
+| **Digital PM Tools**            | Streamlining project execution with Smartsheet, JIRA and SharePoint - enabling real-time updates, document traceability, and stakeholder alignment across regulated environments |
 
 ---
 
@@ -49,9 +49,9 @@
   🌱 Growth & Impact Highlights
 </h3>
 
-- Delivered a web development project for **LiiTCare - Calgary based start-up**: led **7-member Agile team**, managed **40+ user stories**, delivered **1 week early**  
+- Delivered a web development project for **LiiTCare (Calgary start-up)** by applying the full **SDLC lifecycle**. Led a **7-member Agile team**, managed **40+ user stories**, and delivered the project **one week early**. 
 - Built **Power BI dashboards** for **cost**, **schedule**, & **productivity** insights  
-- Drove **GMP projects** in **US, Europe & India**, optimizing compliance workflows  
+- Drove **GMP projects** for clients from **US, Europe & India**, optimizing compliance workflows  
 - Volunteered with **Canadian Red Cross** to improve medical equipment access  
 - Managed **PMI Lakeshore Ontario Chapter** communications & webinar logistics
 
