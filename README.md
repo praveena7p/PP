@@ -66,7 +66,7 @@
 |---------|-------------|------|
 | **Project Controls Dashboard** | Real-time EVM metrics (EV, SV%, CV%) in Power BI | [Watch Demo](https://www.youtube.com/watch?v=mmmx_nv9FY8&t=10s) |
 | **Project Prioritization Tool** | AI-driven ranking via Lovable & Claude | [View Tool](https://claude.ai/public/artifacts/735d9f82-efdf-4826-a18f-b0fee6685fe1) |
-| **Hospital Readmission Prediction** | DataRobot model to predict readmissions & enable proactive care | [Open Project](https://gemini.google.com/share/8524d0a83855) <br>[See Model](https://app.datarobot.com/applications/68a641094c8c59c39e588601/?token=0fIMRjJZ8gq2BIQ5NtbyFGDLvwu-GCjt7c6Gzlym4PU)|
+| **Hospital Readmission Prediction** | DataRobot model to predict readmissions & enable proactive care | [Open Project](https://gemini.google.com/share/8524d0a83855) <br>[View Model](https://app.datarobot.com/applications/68a641094c8c59c39e588601/?token=0fIMRjJZ8gq2BIQ5NtbyFGDLvwu-GCjt7c6Gzlym4PU)|
 ---
 
 <h3 style="color:#117A65;">🤝 Let's Connect</h3>
