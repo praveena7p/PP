@@ -49,11 +49,11 @@
   🌱 Growth & Impact Highlights
 </h3>
 
-- Delivered a web development project for **LiiTCare (Calgary start-up)** by applying the full **SDLC lifecycle**. Led a **7-member Agile team**, managed **40+ user stories**, and delivered the project **one week early**. 
-- Built **Power BI dashboards** for **cost**, **schedule**, & **productivity** insights  
-- Drove **GMP projects** for clients from **US, Europe & India**, optimizing compliance workflows  
-- Volunteered with **Canadian Red Cross** to improve medical equipment access  
-- Managed **PMI Lakeshore Ontario Chapter** communications & webinar logistics
+- **Delivered MVP 1 week early** — by leading *Scrum* sprint cycles across **40+ user stories** in JIRA for a web development project for a Calgary startup.  
+- **Cut reporting time 4 days** — by centralizing cost, schedule & productivity KPIs in **Power BI**.  
+- Optimized compliance workflows in **30+ GMP projects** for clients across US, Europe & India - ensuring **ALCOA adherence** and improved audit readiness.   
+- **Expanded medical-equipment reach** — by coordinating logistics as a volunteer at *Canadian Red Cross*.  
+- **Increased webinar attendance 40%** — by managing communications for *PMI Lakeshore Ontario Chapter*.
 
 ---
 
