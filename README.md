@@ -10,7 +10,7 @@
 
 <h4 align="center">
   <font color="blue">
-    <em>From Pipettes to Projects — Blending Scientific Rigor with Strategic Delivery</em>
+    <em>From Pipettes to Projects : Blending Scientific Rigor with Strategic Delivery</em>
   </font>
 </h4>
 
