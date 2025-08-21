@@ -37,10 +37,10 @@
 
 | 🔧 Core Skills                  | 💡 How I Add Value                          |
 |---------------------------------|---------------------------------------------|
-| **Power BI**                    | Accelerated decision-making by 5 days on average with KPI dashboards that highlighted variances in real-time |
-| **R&D, QC and Lab operations**  | Executed 2K+ sample analysis (mAbs, mRNA). Developed, validated & transferred 10+ methods to QC - ensuring SOP compliance and audit-ready records |
-| **Scheduling & Budget**         | Solved challenges of shifting project demands by using risk logs, Gantt charts, and earned value metrics, preventing overruns and keeping delivery on track |
-| **Digital PM Tools**            | Boosted project efficiency by completing ~9 additional monthly tasks through Smartsheet, JIRA & SharePoint - enabling real-time collaboration, automated updates, and streamlined documentation |
+| **Scheduling & Budgeting** | Solved shifting project demands using risk logs, and earned value metrics - keeping delivery on track and preventing budget overruns |
+| **Digital PM Tools**             | Boosted project efficiency by completing ~9 additional monthly tasks through Smartsheet, JIRA & SharePoint - enabling real-time collaboration and streamlined documentation |
+| **Power BI**                     | Accelerated decision-making by 5 days on average with KPI dashboards that highlighted variances in real-time |
+| **R&D, QC & Lab Operations**     | Executed 2000+ sample analyses (mAbs, mRNA), developing, validating, and transferring 10+ methods to QC - ensuring SOP compliance and audit-ready records |
 
 ---
 
@@ -49,11 +49,11 @@
   🌱 Growth & Impact Highlights
 </h3>
 
-- **Delivered MVP 1 week early** — by leading *Scrum* sprint cycles across **40+ user stories** in JIRA for a web development project for a Calgary-based startup.  
-- **Reduced reporting time by ~5 days** — by centralizing cost, schedule & productivity KPIs in **Power BI**.  
+- **Delivered MVP 1 week early** - by leading *Scrum* sprint cycles across **40+ user stories** in JIRA for a web development project for a Calgary-based startup.  
+- **Reduced reporting time by ~5 days** - by centralizing cost, schedule & productivity KPIs in **Power BI**.  
 - Enhanced compliance accuracy across global client projects, reducing documentation errors by 15% and ensuring **ALCOA** adherence.   
-- **Expanded medical-equipment access** — by coordinating logistics as a volunteer with the *Canadian Red Cross*.  
-- **Increased webinar attendance by 40%** — by managing communications and coordinating with cross-functional teams for *PMI Lakeshore Ontario Chapter* as Communications Project Manager volunteer.
+- **Expanded medical-equipment access** - by coordinating logistics as a volunteer with the *Canadian Red Cross*.  
+- **Increased webinar attendance by 40%** - by managing communications and coordinating with cross-functional teams for *PMI Lakeshore Ontario Chapter* as Communications Project Manager volunteer.
 
 ---
 
