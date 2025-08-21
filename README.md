@@ -22,10 +22,11 @@
 </h3>
 
 - **PMP®-certified** project manager & life sciences research scientist  
-- **9 years** delivering **30+ global biopharma & research projects** (>$2M)  
-- **Actionable insights** via **Power BI**, **JIRA**, **Smartsheet**  
-- **Bioanalytical testing** (mAbs & mRNA) in **GMP environments**  
-- Leadership in **budgets**, **timelines**, **teams**, & **compliance**
+- **9 years'** experience delivering **30+ global biopharma & research projects** (>$2M)  
+- **Actionable insights** with **Power BI**, **JIRA**, **Smartsheet**  
+- **Bioanalytical testing** of mAbs & mRNA in **GMP environments**  
+- Driving **budgets**, **timelines**, & **compliance**
+- Cross-functional **collaboration** with scientists, vendors, and global stakeholders
 
 ---
 
@@ -36,11 +37,10 @@
 
 | 🔧 Core Skills                  | 💡 How I Add Value                          |
 |---------------------------------|---------------------------------------------|
-| **Power BI**                    | Data-driven project control - visualizing KPIs to support timely decisions and drive delivery performance |
-| **R&D and Lab ops**         | Delivered reliable results through lab techniques and method validation - while ensuring SOP compliance, sample traceability, and audit-ready documentation that supports regulatory submissions |
-| **GMP Projects**                | Navigated 30+ global GMP initiatives by balancing compliance, timelines, and client expectations to deliver audit-ready outcomes|
-| **Scheduling & Budget**         | Aligning milestones with real-world constraints : using risk logs, gantt charts, and earned value metrics for precision planning and tracking |
-| **Digital PM Tools**            | Streamlining project execution with Smartsheet, JIRA and SharePoint - enabling real-time updates, document traceability, and stakeholder alignment across regulated environments |
+| **Power BI**                    | Accelerated decision-making by 5 days on average with KPI dashboards that highlighted variances in real-time |
+| **R&D, QC and Lab operations**  | Executed 2K+ sample analysis (mAbs, mRNA). Developed, validated & transferred 10+ methods to QC - ensuring SOP compliance and audit-ready records |
+| **Scheduling & Budget**         | Solved challenges of shifting project demands by using risk logs, Gantt charts, and earned value metrics, preventing overruns and keeping delivery on track |
+| **Digital PM Tools**            | Boosted project efficiency by completing ~9 additional monthly tasks through Smartsheet, JIRA & SharePoint - enabling real-time collaboration, automated updates, and streamlined documentation |
 
 ---
 
@@ -49,11 +49,11 @@
   🌱 Growth & Impact Highlights
 </h3>
 
-- **Delivered MVP 1 week early** — by leading *Scrum* sprint cycles across **40+ user stories** in JIRA for a web development project for a Calgary startup.  
-- **Cut reporting time 4 days** — by centralizing cost, schedule & productivity KPIs in **Power BI**.  
-- Optimized compliance workflows in **30+ GMP projects** for clients across US, Europe & India - ensuring **ALCOA adherence** and improved audit readiness.   
-- **Expanded medical-equipment reach** — by coordinating logistics as a volunteer at *Canadian Red Cross*.  
-- **Increased webinar attendance 40%** — by managing communications for *PMI Lakeshore Ontario Chapter*.
+- **Delivered MVP 1 week early** — by leading *Scrum* sprint cycles across **40+ user stories** in JIRA for a web development project for a Calgary-based startup.  
+- **Reduced reporting time by ~5 days** — by centralizing cost, schedule & productivity KPIs in **Power BI**.  
+- Enhanced compliance accuracy across global client projects, reducing documentation errors by 15% and ensuring **ALCOA** adherence.   
+- **Expanded medical-equipment access** — by coordinating logistics as a volunteer with the *Canadian Red Cross*.  
+- **Increased webinar attendance by 40%** — by managing communications and coordinating with cross-functional teams for *PMI Lakeshore Ontario Chapter* as Communications Project Manager volunteer.
 
 ---
 
