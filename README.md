@@ -5,7 +5,7 @@
 <h2 align="center" style="color:#2E4053;">👋 Hello, I’m Praveena Pentakota (PP) </h2>
 
 <h1 align="center" style="color:#1F618D;">
-  PMP® Project Manager</strong> • Life Sciences Researcher • Power BI • AI Enthusiast 
+  PMP® Project Manager • R&D & QC • Lab Ops • CDMO (Contract Development and Manufacturing) 
 </h1>
 
 <h4 align="center">
@@ -21,10 +21,11 @@
   🌟 Precision Meets Project Management
 </h3>
 
-- **PMP®-certified** project manager & life sciences research scientist  
-- **9 years'** experience delivering **30+ global biopharma & research projects** (>$2M)  
-- **Actionable insights** with **Power BI**, **JIRA**, **Smartsheet**  
-- **Bioanalytical testing** of mAbs & mRNA in **GMP environments**  
+- **PMP®-certified** project manager & Biopharmaceutical research associate  
+- **9 years'** hybrid experience in biopharma project management and lab R&D**
+- Delivered 30+ global biopharma projects (>$2M) in CDMO & research settings   
+- Hands-on **Bioanalytical testing** of mAbs & mRNA in **GMP environments**
+- **Actionable insights** with **Power BI**, **JIRA**, **Smartsheet**   
 - Driving **budgets**, **timelines**, & **compliance**
 - Cross-functional **collaboration** with scientists, vendors, and global stakeholders
 
@@ -35,13 +36,22 @@
   🚀 How I Solve Problems
 </h3>
 
-| 🔧 Core Skills                  | 💡 How I Add Value                          |
+| 🔧 PM Skills                  | 💡 How I Add Value                          |
 |---------------------------------|---------------------------------------------|
 | **Scheduling & Budgeting** | Solved shifting project demands using risk logs, and earned value metrics - keeping delivery on track and preventing budget overruns |
 | **Digital PM Tools**             | Boosted project efficiency by completing ~9 additional monthly tasks through Smartsheet, JIRA & SharePoint - enabling real-time collaboration and streamlined documentation |
 | **Power BI**                     | Accelerated decision-making by 5 days on average with KPI dashboards that highlighted variances in real-time |
 | **R&D, QC & Lab Operations**     | Executed 2000+ sample analyses (mAbs, mRNA), developing, validating, and transferring 10+ methods to QC - ensuring SOP compliance and audit-ready records |
 
+### 🧪 Technical Lab Skills
+
+| 🧪 Technical Skills              | 💡 How I Add Value                          |
+|---------------------------------|---------------------------------------------|
+| **HPLC, Capillary Electrophoresis, Gel Electrophoresis** | Analyzed **2000+ process samples** from upstream/downstream operations, delivering audit-ready data that supported engineering and GMP batch decisions |
+| **qPCR & ELISA**                 | Quantified gene expression and protein levels with high sensitivity, ensuring reliable product characterization |
+| **Method Validation & Transfer** | Developed, validated, and transferred **10+ bioanalytical methods** to QC, ensuring SOP compliance and regulatory readiness |
+| **Bioanalytical R&D Support**    | Partnered with process development teams by providing rapid turnaround of data, enabling informed decisions in upstream & downstream optimization |
+| **Immunohistochemistry (IHC)**   | Conducted IHC in *Drosophila* to support **neuroplasticity studies**, generating reproducible staining and imaging data for research publications |
 ---
 
 <h3 style="color:#D35400;">
