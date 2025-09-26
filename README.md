@@ -5,7 +5,7 @@
 <h2 align="center" style="color:#2E4053;">👋 Hello, I’m Praveena Pentakota (PP) </h2>
 
 <h1 align="center" style="color:#1F618D;">
-  PMP® Project Manager • R&D & QC • Lab Ops • CDMO (Contract Development and Manufacturing) 
+  PMP® Project Manager • Biopharma R&D & QC • Lab Operations • CDMO
 </h1>
 
 <h4 align="center">
