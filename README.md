@@ -30,6 +30,19 @@
 
 ---
 
+<h3 style="color:#8E44AD;">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30" style="vertical-align:middle; margin-right:8px;"/>
+  Featured Projects 📊
+</h3>
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Project Controls Dashboard** | Real-time EVM metrics (EV, SV%, CV%) in Power BI | [Watch Demo](https://www.youtube.com/watch?v=mmmx_nv9FY8&t=10s) |
+| **Project Prioritization Tool** | AI-driven ranking via Lovable & Claude | [View Tool](https://claude.ai/public/artifacts/735d9f82-efdf-4826-a18f-b0fee6685fe1) |
+| **Hospital Readmission Prediction** | DataRobot model to predict readmissions & enable proactive care | [Open Project](https://claude.ai/public/artifacts/711b02f8-ef10-4434-bf96-d92afdf83250) |
+
+---
+
 <h3 style="color:#239B56;">
   <img src="https://media.giphy.com/media/3o6ZsYvQf8UzCrpS16/giphy.gif" width="30" style="vertical-align:middle; margin-right:8px;"/>
   🚀 How I Solve Problems
@@ -41,6 +54,8 @@
 | **Digital PM Tools**             | Boosted project efficiency by completing ~9 additional monthly tasks through Smartsheet, JIRA & SharePoint - enabling real-time collaboration and streamlined documentation |
 | **Power BI**                     | Accelerated decision-making by 5 days on average with KPI dashboards that highlighted variances in real-time |
 | **R&D, QC & Lab Operations**     | Executed 2000+ sample analyses (mAbs, mRNA), developing, validating, and transferring 10+ methods to QC - ensuring SOP compliance and audit-ready records |
+
+---
 
 ### 🧪 Technical Lab Skills
 
@@ -64,18 +79,6 @@
 - **Expanded medical-equipment access** - by coordinating logistics as a volunteer with the *Canadian Red Cross*.  
 - **Increased webinar attendance by 40%** - by managing communications and coordinating with cross-functional teams for *PMI Lakeshore Ontario Chapter* as Communications Project Manager volunteer.
 
----
-
-<h3 style="color:#8E44AD;">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30" style="vertical-align:middle; margin-right:8px;"/>
-  🧪 Featured Projects
-</h3>
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Project Controls Dashboard** | Real-time EVM metrics (EV, SV%, CV%) in Power BI | [Watch Demo](https://www.youtube.com/watch?v=mmmx_nv9FY8&t=10s) |
-| **Project Prioritization Tool** | AI-driven ranking via Lovable & Claude | [View Tool](https://claude.ai/public/artifacts/735d9f82-efdf-4826-a18f-b0fee6685fe1) |
-| **Hospital Readmission Prediction** | DataRobot model to predict readmissions & enable proactive care | [Open Project](https://claude.ai/public/artifacts/711b02f8-ef10-4434-bf96-d92afdf83250) |
 ---
 
 <h3 style="color:#117A65;">🤝 Let's Connect</h3>
