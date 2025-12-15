@@ -5,7 +5,7 @@
 <h2 align="center" style="color:#2E4053;">👋 Hello, I’m Praveena Pentakota (PP) </h2>
 
 <h1 align="center" style="color:#1F618D;">
-  PMP® Project Manager • Biopharma R&D & QC • Lab Operations • CDMO
+  PMP® Project Manager • Biopharma • Lab Operations & Compliance • CDMO
 </h1>
 
 <h4 align="center">
@@ -21,8 +21,7 @@
   🌟 Precision Meets Project Management
 </h3>
 
-- **PMP®-certified** project manager & Biopharmaceutical research associate  
-- **9 years'** hybrid experience in biopharma project management and lab R&D**
+- **8+ years'** hybrid experience in biopharma project management and lab R&D**
 - Delivered 30+ global biopharma projects (>$2M) in CDMO & research settings   
 - Hands-on **Bioanalytical testing** of mAbs & mRNA in **GMP environments**
 - **Actionable insights** with **Power BI**, **JIRA**, **Smartsheet**   
